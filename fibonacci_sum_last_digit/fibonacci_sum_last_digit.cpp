@@ -1,6 +1,6 @@
 /**
 
-	Purpose: The following  algorithm computes the the last digit of a sum of the first n Fibonacci numbers.
+	Purpose: The following  algorithm computes the last digit of a sum of the first n Fibonacci numbers.
 	Author : Mosfiqur Rahman(mosfiqur.rahman@drexel.edu)
 
 **/
